@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7321a7e6-1733-473c-b1ec-f334f556d90c" name="visualization_chart">
+        <fileTransfer rootFolder="/home/huoyikang/goProject" accessType="SFTP" host="119.91.133.80" port="7861" sshConfigId="a1b9eb8b-a81a-4cdc-bebd-28551e3316a5" sshConfig="huoyikang@119.91.133.80:7861 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
